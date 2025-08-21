@@ -32,7 +32,7 @@ This project replicates the look and feel of the Razorpay website with a clean, 
 ### Installation  
 ```bash
 # Clone the repository  
-
+https://github.com/subratamondalnsec/Razorpay-Clone.git
 
 # Navigate into the project  
 cd razorpay-clone  
